@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="centre">Hi👋,I'm Tanush V</h1>
 
 ###
 
-<p align="left">I’m Tanush V, an MLOps Engineer from MVJ College of Engineering, passionate about building scalable machine learning pipelines and deploying production-ready AI systems.<br>I love working at the intersection of Machine Learning, DevOps, and Cloud Engineering, ensuring that models don’t just work in notebooks—but run reliably in real-world environments.</p>
+<p align="centre">I’m Tanush V, an MLOps Engineer  passionate about building machine learning pipelines and deploying AI systems.<br>I love working at the intersection of Machine Learning, DevOps, and Cloud Engineering.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I am currently exploring the fields of LLM operations and multi-agent systems.  <br>🎯 My goals include developing automated, reproducible, and fault-tolerant machine learning solutions.  <br>🎲 A fun fact about me is that I believe in hands-on learning, which sometimes involves breaking things to understand how to repair them.</p>
+<p align="left">📚 I am currently exploring LLM operations and multi-agent systems.  <br>🎯 My goals include developing automated, reproducible, and fault-tolerant machine learning solutions.  <br>🎲 A fun fact about me is that I believe in hands-on learning, which sometimes involves breaking things to understand how to repair them.</p>
 
 ###
 
