@@ -1,8 +1,8 @@
-<h1 align="centre">Hi👋,I'm Tanush V</h1>
+<h1 align="center">I'm Tanush V</h1>
 
 ###
 
-<p align="centre">I’m Tanush V, an MLOps Engineer  passionate about building machine learning pipelines and deploying AI systems.<br>I love working at the intersection of Machine Learning, DevOps, and Cloud Engineering.</p>
+<p align="center">I’m Tanush V, an MLOps Engineer  passionate about building machine learning pipelines and deploying AI systems.<br>I love working at the intersection of Machine Learning, DevOps, and Cloud Engineering.</p>
 
 ###
 
