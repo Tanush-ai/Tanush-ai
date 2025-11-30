@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I’m Tanush V, an MLOps Engineer  passionate about building machine learning pipelines and deploying AI systems.<br>I love working at the intersection of Machine Learning, DevOps, and Cloud Engineering.</p>
+<p align="center">An MLOps Engineer  passionate about building machine learning pipelines and deploying AI systems.<br>I love working at the intersection of Machine Learning, DevOps, and Cloud Engineering.</p>
 
 ###
 
